@@ -41,3 +41,27 @@ main button{
   color: blueviolet;
   width: 40%;
 }
+.appStyling{
+  position: fixed;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 25px;
+  color: white;
+}
+.btns button{
+  padding: 1em;
+  border: none;
+  margin-right: 10px;
+  margin-top: 1em;
+  border-radius: 2px;
+}
+.tech{
+  color: yellowgreen;
+  font-weight: bold;
+  margin-left: 10px;
+}
+.btns{
+  display: flex;
+  flex-direction: row;
+}
