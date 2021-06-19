@@ -1,3 +1,4 @@
+//EXERCISE 3
 import React from 'react';
 
 const footer = () => {

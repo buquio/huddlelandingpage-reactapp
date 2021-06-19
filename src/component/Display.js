@@ -1,16 +1,19 @@
-import React from 'react';
+// NOT REQUIRED FOR EXCERCISE 3 
+
+//EXERCISE 2
+// import React from 'react';
 
 
-const Display = ( {tech} ) => {
-    return (
-        <div>
-             Hello World <span className="tech"> {tech} </span> 
-        </div>
-    );
-};
+// const Display = ( {tech} ) => {
+//     return (
+//         <div>
+//              Hello World <span className="tech"> {tech} </span> 
+//         </div>
+//     );
+// };
 
 
-
+//EXERCISE 1
 // const Display = (props) => {
 //     return (
 //         <div>
@@ -20,7 +23,7 @@ const Display = ( {tech} ) => {
 // };
 
 
-
+//EXERCISE 1
 //or destructuring
 // const Display = ( {name, age} ) => {
 //     return (
@@ -30,4 +33,4 @@ const Display = ( {tech} ) => {
 //     );
 // };
 
-export default Display;
+// export default Display;

@@ -1,3 +1,5 @@
+//EXERCISE 3
+
 import React from 'react';
 import logo from '../images/logo.svg';
 
